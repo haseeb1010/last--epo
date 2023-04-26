@@ -1,0 +1,8 @@
+# By printing directly
+print('Name: Ahmad Shafiq')
+print('Roll No: 2021-EE-367')
+print('Section: A')
+print('Session: 2021')
+print('Department: Electrical Engineering')
+ 
+# This code is contributed by Ahmad Shafiq
